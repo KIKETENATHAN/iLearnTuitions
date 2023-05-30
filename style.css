@@ -108,6 +108,7 @@
     max-width: 40%;
     height: auto;
     float: right;
+    border-radius: 50%;
 }
 
 .logo img {
@@ -150,6 +151,7 @@ button {
 button img {
     width: 30px;
     display: none;
+    border-radius: 50%;
 }
 
 button:hover img {

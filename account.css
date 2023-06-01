@@ -161,7 +161,7 @@
   input[type="email"],
   input[type="numbers"],
   input[type="password"] {
-    width: 50%;
+    width: 100%;
     padding: 10px;
     margin-bottom: 10px;
     border-radius: 3px;

@@ -153,7 +153,11 @@
     border-radius: 5px;
   }
   
-  h2 {
+  h1 {
+    text-align: center;
+    color: brown;
+  }
+  p{
     text-align: center;
   }
   
@@ -185,5 +189,7 @@
     text-align: center;
     background-color: #f2ebe5;
 }
-
+body{
+  background-color: #f2ebe5;
+}
   
